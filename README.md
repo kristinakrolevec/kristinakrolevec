@@ -3,6 +3,7 @@
 ## actively looking for work
 
 ______________________________
+## :white_check_mark: Стек:
 
 [![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](#)
 
